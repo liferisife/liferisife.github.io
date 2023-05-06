@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://liferisife.github.io/sitemap.xml
